@@ -1,4 +1,6 @@
-<template> </template>
+<template>
+  <div class="timeLine"></div>
+</template>
 
 <script>
 export default {
